@@ -1,0 +1,3 @@
+# Cliente-API
+API feita em Spring que serve para a criação de clientes.
+Este mini projeto mostra como funciona uma api rest em spring, ciração de endpoints, anotações e etc...
